@@ -4,7 +4,6 @@ Javascript for Video Player
 var myvid = document.getElementById('myvideo');
 var myvids = [
   "vid/Tendo.mp4", 
-  "vid/HD.mp4",
   "vid/Yugo.mp4"
   ];
 var activeVideo = 0;
