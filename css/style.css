@@ -1036,18 +1036,6 @@ input[type="text"] {
   margin-bottom: 30px;
 }
 
-#map {
-  width: 100%;
-  height: 100px;
-  position: center;
-}
-@media screen and (max-width: 768px) {
-  #map {
-    height: 200px;
-    position: center;
-  }
-}
-
 .gototop {
   position: fixed;
   bottom: 20px;
