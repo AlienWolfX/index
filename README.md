@@ -1,2 +1,3 @@
-<h1>CASSANDRA</h1>
-![cassandra_logo](https://github.com/AlienWolfX/index/blob/main/ico/ico.png)
+<h1>CassandraX</h1>
+# A website for hosting my Projects
+
