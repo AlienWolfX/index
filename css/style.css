@@ -88,8 +88,8 @@ h1, h2, h3, h4, h5, h6, figure {
 .fh5co-cover {
   background-color: transparent;
   background-size: cover;
-  background-attachment: initial;
-  position: relative;
+  background-attachment: fixed;
+  position: initial;
   height: 600px;
   width: 100%;
 }
