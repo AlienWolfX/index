@@ -93,6 +93,9 @@ h1, h2, h3, h4, h5, h6, figure {
   height: 600px;
   width: 100%;
 }
+/*!
+Overlay on Profile
+ */
 #fh5co-header .overlay,
 .fh5co-cover .overlay {
   position: absolute;
@@ -100,7 +103,7 @@ h1, h2, h3, h4, h5, h6, figure {
   bottom: 0;
   left: 0;
   right: 0;
-  background: rgba(255, 144, 0, 0.9);
+  background: rgba(85, 77, 66, 0.9); 
 }
 #fh5co-header .display-t,
 .fh5co-cover .display-t {
@@ -305,7 +308,7 @@ h1, h2, h3, h4, h5, h6, figure {
 
 .fh5co-bg-dark {
   background: #2F3C4F;
-  background: #FF9000;
+  background: #554D42;
 }
 .fh5co-bg-dark .fh5co-heading h2 {
   color: #fff !important;
