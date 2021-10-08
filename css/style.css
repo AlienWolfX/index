@@ -89,9 +89,9 @@ h1, h2, h3, h4, h5, h6, figure {
   background-color: transparent;
   background-size: cover;
   background-attachment: fixed;
-  position: initial;
-  height: 600px;
-  width: 100%;
+  position: relative;
+  height: auto;
+  width: auto;
 }
 /*!
 Overlay on Profile
